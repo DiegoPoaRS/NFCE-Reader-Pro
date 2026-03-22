@@ -1,0 +1,6 @@
+[2025-11-16 22:50:17] [INFO] [root] Sistema de logging iniciado.
+[2025-11-16 22:50:17] [INFO] [consolidator] Iniciando a consolidação de dados...
+[2025-11-16 22:50:17] [ERROR] [consolidator] Diretório de origem não encontrado: nfce_data
+[2025-11-16 22:50:43] [INFO] [root] Sistema de logging iniciado.
+[2025-11-16 22:50:43] [INFO] [consolidator] Iniciando a consolidação de dados...
+[2025-11-16 22:50:43] [INFO] [consolidator] Nenhum dado de produto encontrado para consolidar.

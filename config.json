@@ -1,0 +1,372 @@
+{
+    "app_name": "NFCe Reader Pro ODS",
+    "theme": "escuro",
+    "camera_source": "http://192.168.0.104:4747/video",
+    "camera_autofocus_url": "http://192.168.0.104:4747/cam/1/af",
+    "potential_camera_ips": [
+        "192.168.0.102",
+        "192.168.0.105",
+        "192.168.0.108",
+        "192.168.0.112"
+    ],
+    "paths": {
+        "json_output_dir": "nfce_data",
+        "log_file": "nfce_reader.log",
+        "consolidated_output_dir": "nfce_consolidado"
+    },
+    "analise_sustentabilidade": {
+        "metas_ods": {
+            "carbono_maximo_mes": 100,
+            "pct_gasto_vegetal_min": 35,
+            "pct_gasto_nao_essencial_max": 25
+        },
+        "categorias": {
+            "Combustiveis_Fosseis": {
+                "palavras_chave": [
+                    "diesel",
+                    "gasolina",
+                    "etanol",
+                    "gnv",
+                    "oleo diesel",
+                    "combustivel",
+                    "aditivada"
+                ],
+                "pegada_carbono_media": 2.3,
+                "risco_ambiental": "Crítico (Emissões CO2 Diretas)",
+                "ods_foco": [
+                    "ODS 13",
+                    "ODS 7"
+                ]
+            },
+            "Proteina_Alta_Carbono": {
+                "palavras_chave": [
+                    "bife",
+                    "bisteca",
+                    "carne",
+                    "picanha",
+                    "costela",
+                    "linguica",
+                    "hamburguer",
+                    "patinho",
+                    "acem",
+                    "alcatra",
+                    "maminha",
+                    "moida",
+                    "fgo",
+                    "frango",
+                    "file",
+                    "sobrecoxa",
+                    "peito",
+                    "salsicha",
+                    "presunto"
+                ],
+                "pegada_carbono_media": 25.0,
+                "risco_ambiental": "Alto (Emissões Metano, Uso Terra)",
+                "ods_foco": [
+                    "ODS 13",
+                    "ODS 15"
+                ]
+            },
+            "Laticinios_Derivados": {
+                "palavras_chave": [
+                    "leite",
+                    "queijo",
+                    "manteiga",
+                    "iogurte",
+                    "requeijao",
+                    "creme de leite",
+                    "nata",
+                    "lactea",
+                    "mussarela",
+                    "parmesao"
+                ],
+                "pegada_carbono_media": 8.0,
+                "risco_ambiental": "Médio (Emissões Gado)",
+                "ods_foco": [
+                    "ODS 13"
+                ]
+            },
+            "Hortifruti_Baixo_Carbono": {
+                "palavras_chave": [
+                    "banana",
+                    "maca",
+                    "laranja",
+                    "alface",
+                    "tomate",
+                    "cebola",
+                    "batata",
+                    "cenoura",
+                    "couve",
+                    "brocolis",
+                    "uva",
+                    "mamao",
+                    "melancia",
+                    "limao",
+                    "alho",
+                    "abacaxi",
+                    "beterraba",
+                    "pimentao",
+                    "repolho",
+                    "chuchu",
+                    "abobora",
+                    "tempero",
+                    "salsa"
+                ],
+                "pegada_carbono_media": 0.5,
+                "risco_ambiental": "Baixo (Preferir Orgânicos)",
+                "ods_foco": [
+                    "ODS 12",
+                    "ODS 2"
+                ]
+            },
+            "Carboidratos_Processados": {
+                "palavras_chave": [
+                    "arroz",
+                    "feijao",
+                    "macarrao",
+                    "pao",
+                    "farinha",
+                    "acucar",
+                    "cafe",
+                    "oleo",
+                    "biscoito",
+                    "bolacha",
+                    "milho",
+                    "lentilha",
+                    "torrada",
+                    "massas",
+                    "trigo"
+                ],
+                "pegada_carbono_media": 1.5,
+                "risco_ambiental": "Baixo/Médio (Monoculturas)",
+                "ods_foco": [
+                    "ODS 12"
+                ]
+            },
+            "Higiene_Limpeza_Quimica": {
+                "palavras_chave": [
+                    "detergente",
+                    "sabao",
+                    "agua sanitaria",
+                    "desinfetante",
+                    "lustra",
+                    "alcool",
+                    "amaciante",
+                    "multiuso",
+                    "acetona",
+                    "shampoo",
+                    "condicionador",
+                    "creme dental",
+                    "sabonete",
+                    "qboa",
+                    "ype",
+                    "omo",
+                    "limpador"
+                ],
+                "pegada_carbono_media": 8.0,
+                "risco_ambiental": "Alto (Resíduos Químicos, Plástico)",
+                "ods_foco": [
+                    "ODS 6",
+                    "ODS 12"
+                ]
+            },
+            "Higiene_Limpeza_Seca": {
+                "palavras_chave": [
+                    "papel higienico",
+                    "escova",
+                    "hastes",
+                    "fio dental",
+                    "lamina",
+                    "desodorante",
+                    "saco lixo",
+                    "papel toalha",
+                    "pano",
+                    "esponja",
+                    "palha de aco",
+                    "filme plastico",
+                    "aluminio",
+                    "fosforo",
+                    "vassoura",
+                    "rodo",
+                    "absorvente",
+                    "guardanapo"
+                ],
+                "pegada_carbono_media": 4.5,
+                "risco_ambiental": "Médio (Embalagem, Descarte)",
+                "ods_foco": [
+                    "ODS 12"
+                ]
+            },
+            "Utensilios_Domesticos": {
+                "palavras_chave": [
+                    "copo",
+                    "prato",
+                    "talher",
+                    "pote",
+                    "tigela",
+                    "jarra",
+                    "bacia",
+                    "balde",
+                    "lampada",
+                    "pilha",
+                    "bateria"
+                ],
+                "pegada_carbono_media": 6.0,
+                "risco_ambiental": "Médio (Resíduos Sólidos)",
+                "ods_foco": [
+                    "ODS 12"
+                ]
+            },
+            "Pet": {
+                "palavras_chave": [
+                    "racao",
+                    "petisco",
+                    "tapete higienico",
+                    "whiskas",
+                    "pedigree",
+                    "areia gato"
+                ],
+                "pegada_carbono_media": 12.0,
+                "risco_ambiental": "Alto (Fonte de proteína)",
+                "ods_foco": [
+                    "ODS 12"
+                ]
+            }
+        }
+    },
+    "analise_saude": {
+        "Alimentos_Ultraprocessados": [
+            "refrigerante",
+            "refri",
+            "refr",
+            "coca-cola",
+            "coca cola",
+            "pepsi",
+            "guarana",
+            "fanta",
+            "sprite",
+            "salgadinho",
+            "chips",
+            "doritos",
+            "ruffles",
+            "cheetos",
+            "fandangos",
+            "bolacha",
+            "biscoito",
+            "trakinas",
+            "oreo",
+            "passatempo",
+            "waffer",
+            "miojo",
+            "macarrao inst",
+            "cup noodles",
+            "lasanha cong",
+            "pizza cong",
+            "prato pronto",
+            "nuggets",
+            "empanado",
+            "hamburguer",
+            "steak",
+            "salsicha",
+            "presunto",
+            "mortadela",
+            "calabresa",
+            "bacon",
+            "salame",
+            "chocolate",
+            "bombom",
+            "barra cereal",
+            "sorvete",
+            "bala",
+            "chiclete",
+            "suco caixa",
+            "nectar",
+            "refresco po",
+            "achocolatado"
+        ],
+        "Alimentos_Naturais_Min_Processados": [
+            "banana",
+            "maca",
+            "laranja",
+            "uva",
+            "mamao",
+            "melancia",
+            "abacaxi",
+            "limao",
+            "manga",
+            "pera",
+            "alface",
+            "tomate",
+            "cebola",
+            "batata",
+            "cenoura",
+            "beterraba",
+            "couve",
+            "brocolis",
+            "alho",
+            "abobora",
+            "chuchu",
+            "pepino",
+            "pimentao",
+            "repolho",
+            "cheiro verde",
+            "arroz",
+            "feijao",
+            "lentilha",
+            "grao de bico",
+            "milho",
+            "ervilha",
+            "ovo",
+            "leite",
+            "iogurte",
+            "coalhada",
+            "carne",
+            "frango",
+            "fgo",
+            "peixe",
+            "bife",
+            "moida",
+            "patinho",
+            "acem",
+            "sobrecoxa",
+            "peito",
+            "file",
+            "agua",
+            "cafe",
+            "cha",
+            "erva mate"
+        ],
+        "Nao_Alimento": [
+            "detergente",
+            "sabao",
+            "agua sanitaria",
+            "desinfetante",
+            "alcool",
+            "amaciante",
+            "multiuso",
+            "shampoo",
+            "condicionador",
+            "sabonete",
+            "papel higienico",
+            "papel toalha",
+            "saco lixo",
+            "esponja",
+            "vassoura",
+            "rodo",
+            "racao",
+            "petisco",
+            "areia gato",
+            "tapete higienico",
+            "diesel",
+            "gasolina",
+            "etanol",
+            "oleo motor",
+            "copo",
+            "prato",
+            "pilha",
+            "lampada",
+            "guardanapo",
+            "p toalha utilo 2x50f"
+        ]
+    }
+}
