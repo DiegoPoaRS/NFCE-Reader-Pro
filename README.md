@@ -28,7 +28,7 @@ O projeto foca em transformar dados de consumo em insights sobre saúde e impact
 2. **Dependências de C++:** Caso ocorram erros de DLL, instale o [Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 3. **ZBar (Leitura de QR Code):** - Se o sistema reportar erro na `zbar shared library`, instale o [ZBar for Windows](https://sourceforge.net/projects/zbar/files/zbar/0.10/zbar-0.10-setup.exe/download).
 4. **Câmera:**
-   - Se for usar o celular como câmera, instale o [DroidCam Client](https://www.dev47apps.com/droidcam/windows/).
+   - Se for usar o celular como câmera (RECOMENDADO), instale o [DroidCam Client](https://www.dev47apps.com/droidcam/windows/) no windows e o app no telefone android.
    - Se for usar webcam, altere o arquivo `config.json` para `"camera_source": 0`.
 5. **Instale os módulos do python** Listados em requirements.txt
 6. **Baixe o respectivo Chromedriver**
