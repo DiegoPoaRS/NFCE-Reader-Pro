@@ -17,9 +17,8 @@ O projeto foca em transformar dados de consumo em insights sobre saúde e impact
 - Python 3.10+
 - OpenCV
 - Droidcam
-- Google Chrome (para o scraping) + respectivo chrome driver em: https://developer.chrome.com/docs/chromedriver/downloads?hl=pt-br
+- Google Chrome (para o scraping) 
 - Dependências de C++
-  
 - Bibliotecas listadas no `requirements.txt`
 
 ### 🖥️ Guia de Instalação no Windows
