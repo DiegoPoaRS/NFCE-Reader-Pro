@@ -31,3 +31,4 @@ O projeto foca em transformar dados de consumo em insights sobre saúde e impact
    - Se for usar webcam, altere o arquivo `config.json` para `"camera_source": 0`.
 5. **Instale os módulos do python** Listados em requirements.txt
 6. **Baixe o respectivo Chromedriver**
+7. **Salvar em um arquivo .bat na pasta da aplicação para inicialização: python main_app.py pause
