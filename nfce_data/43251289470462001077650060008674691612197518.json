@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251289470462001077650060008674691612197518|2|1|1|591ebeef4477eb3622e2ea99fa6847571d8f0bc2",
+    "geral": {
+        "chave_acesso": "43251289470462001077650060008674691612197518",
+        "data_emissao": "17/12/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "ABASTECEDORA ABM LTDA",
+        "cnpj": "89.470.462/0010-77"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "100,00",
+        "valor_total_tributos": "17,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "GASOLINA COMUM",
+            "codigo": " 1 ",
+            "quantidade": "16,208",
+            "unidade": " L",
+            "valor_unitario": " 6,17",
+            "valor_total": "100,00"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251288212113110207650070000184661341214747|2|1|1|a37fdf692fa52d7103453521c3f57d5b8ca6c9e1",
+    "geral": {
+        "chave_acesso": "43251288212113110207650070000184661341214747",
+        "data_emissao": "05/12/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "COMERCIO DE MEDICAMENTOS BRAIR LTDA",
+        "cnpj": "88.212.113/1102-07"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "25,37",
+        "valor_total_tributos": "25,37",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "ENO 5G 2 ENV EFERV GUARANA GSK AV*",
+            "codigo": " 10086657 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 4,93",
+            "valor_total": "9,86"
+        },
+        {
+            "descricao": "ENO 5G 2 ENV EFERV ABACAXI GSK AV*",
+            "codigo": " 10102451 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 4,93",
+            "valor_total": "4,93"
+        },
+        {
+            "descricao": "AGUA CRYSTAL SPARKLING C/GAS FRUTAS VERMELHAS 510ML",
+            "codigo": " 10021152 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,29",
+            "valor_total": "5,29"
+        },
+        {
+            "descricao": "REFRI COCA COLA LATA 350ML",
+            "codigo": " 10106051 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,29",
+            "valor_total": "5,29"
+        }
+    ]
+}

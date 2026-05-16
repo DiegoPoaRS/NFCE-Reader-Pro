@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251292910389000120650010000565021000565015|2|1|1|43AAED047A034DCEAFD315818839B331166D65C3",
+    "geral": {
+        "chave_acesso": "43251292910389000120650010000565021000565015",
+        "data_emissao": "05/12/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "LUIZ R. FELIPPE",
+        "cnpj": "92.910.389/0001-20"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "8,00",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "AREIA MEDIA/FINA 20 KG",
+            "codigo": " 0000000005670 ",
+            "quantidade": "1",
+            "unidade": " UNI",
+            "valor_unitario": " 8",
+            "valor_total": "8,00"
+        }
+    ]
+}

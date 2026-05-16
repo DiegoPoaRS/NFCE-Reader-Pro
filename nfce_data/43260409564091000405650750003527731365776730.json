@@ -1,0 +1,80 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260409564091000405650750003527731365776730|3|1",
+    "geral": {
+        "chave_acesso": "43260409564091000405650750003527731365776730",
+        "data_emissao": "16/04/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "R. SELAU LUMERTZ E CIA LTDA - FILIAL 3",
+        "cnpj": "09.564.091/0004-05"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "35,05",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "EMPADAO DE FRANGO C REQUEIJAO",
+            "codigo": " 4906 ",
+            "quantidade": "0,178",
+            "unidade": " KG",
+            "valor_unitario": " 64,9",
+            "valor_total": "11,55"
+        },
+        {
+            "descricao": "RISOLES DE FRANGO PQ KG",
+            "codigo": " 4625 ",
+            "quantidade": "0,078",
+            "unidade": " KG",
+            "valor_unitario": " 54,9",
+            "valor_total": "4,28"
+        },
+        {
+            "descricao": "MINI PASTEL CARNE KG",
+            "codigo": " 4754 ",
+            "quantidade": "0,074",
+            "unidade": " KG",
+            "valor_unitario": " 54,9",
+            "valor_total": "4,06"
+        },
+        {
+            "descricao": "NESTLE BISC BONO RECHEADO CHO",
+            "codigo": " 60464 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,99",
+            "valor_total": "3,99"
+        },
+        {
+            "descricao": "FRUKI REFRI GUARANA PET 600ML",
+            "codigo": " 18818 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 4,99",
+            "valor_total": "4,99"
+        },
+        {
+            "descricao": "AGUA DA PEDRA AG MIN S GAS 50",
+            "codigo": " 9220 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,49",
+            "valor_total": "2,49"
+        },
+        {
+            "descricao": "FRUKI REFRI GUARANA E ABACAXI",
+            "codigo": " 65475 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,69",
+            "valor_total": "3,69"
+        }
+    ]
+}

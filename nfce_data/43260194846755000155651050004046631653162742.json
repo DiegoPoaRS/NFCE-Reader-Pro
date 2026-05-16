@@ -1,0 +1,80 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260194846755000155651050004046631653162742|2|1|1|80482D75FEB84ECE12A14013EAF9731E3050E12C",
+    "geral": {
+        "chave_acesso": "43260194846755000155651050004046631653162742",
+        "data_emissao": "12/01/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "SUPERMERCADO GUANABARA S.A",
+        "cnpj": "94.846.755/0001-55"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "30,26",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "PAD PAO FRANCES C kg",
+            "codigo": " 5261 ",
+            "quantidade": "0,134",
+            "unidade": " KG",
+            "valor_unitario": " 15,9",
+            "valor_total": "2,13"
+        },
+        {
+            "descricao": "LANCH TRANCA SERRA CANAST UN FGO C/REQUEIJAO",
+            "codigo": " 152398 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,9",
+            "valor_total": "6,90"
+        },
+        {
+            "descricao": "BEB NECTAR CBS TP 1L MORANGO",
+            "codigo": " 146162 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 8,49",
+            "valor_total": "8,49"
+        },
+        {
+            "descricao": "LARANJA SUCO kg",
+            "codigo": " 7698 ",
+            "quantidade": "0,422",
+            "unidade": " KG",
+            "valor_unitario": " 5,68",
+            "valor_total": "2,40"
+        },
+        {
+            "descricao": "IOGURTE BATAVO 170G NATURAL MEL",
+            "codigo": " 7324 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,25",
+            "valor_total": "3,25"
+        },
+        {
+            "descricao": "DOCE LEITE -kg TRADICIONAL",
+            "codigo": " 148915 ",
+            "quantidade": "0,166",
+            "unidade": " KG",
+            "valor_unitario": " 25,9",
+            "valor_total": "4,30"
+        },
+        {
+            "descricao": "SABONETE REXONA 84G ANTIBAC L PROF",
+            "codigo": " 131489 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,79",
+            "valor_total": "2,79"
+        }
+    ]
+}

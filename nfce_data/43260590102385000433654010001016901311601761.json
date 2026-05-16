@@ -1,0 +1,72 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260590102385000433654010001016901311601761|2|1|1|5ffd1ba846a05faa6361f8ed4cf6ad3bd6995583",
+    "geral": {
+        "chave_acesso": "43260590102385000433654010001016901311601761",
+        "data_emissao": "04/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "Comercio de Alimentos Saalfeld e Cia Ltda",
+        "cnpj": "90.102.385/0004-33"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "36,27",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "ESPONJA ESFREBOM DURA MAIS",
+            "codigo": " 240016 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,99",
+            "valor_total": "1,99"
+        },
+        {
+            "descricao": "ERVA MATE MADRUG. MOIDA GROSSA 500G",
+            "codigo": " 60159 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 8,25",
+            "valor_total": "8,25"
+        },
+        {
+            "descricao": "PASTEL FRITO CARNE CRISTAL KG",
+            "codigo": " 12121 ",
+            "quantidade": "0,18",
+            "unidade": " KG",
+            "valor_unitario": " 36,99",
+            "valor_total": "6,66"
+        },
+        {
+            "descricao": "ENERG. MONSTER ULTRA STRWBRY DREAM 473ML",
+            "codigo": " 42596 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 9,99",
+            "valor_total": "9,99"
+        },
+        {
+            "descricao": "SALADA DE FRUTAS CRISTAL KG",
+            "codigo": " 1050302 ",
+            "quantidade": "0,252",
+            "unidade": " KG",
+            "valor_unitario": " 22,99",
+            "valor_total": "5,79"
+        },
+        {
+            "descricao": "AGUA MIN. DA PEDRA S GAS 1.5L",
+            "codigo": " 40377 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,59",
+            "valor_total": "3,59"
+        }
+    ]
+}

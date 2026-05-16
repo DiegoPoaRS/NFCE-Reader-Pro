@@ -1,0 +1,80 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260509185272000188650010005723181105102434|3|1",
+    "geral": {
+        "chave_acesso": "43260509185272000188650010005723181105102434",
+        "data_emissao": "10/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "IRMAOS WERLANG C. G. A. LTDA",
+        "cnpj": "09.185.272/0001-88"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "52,62",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "REFRI COCACOLA ORIG 2L",
+            "codigo": " 5882 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 11,99",
+            "valor_total": "11,99"
+        },
+        {
+            "descricao": "REFRIG SPRITE ZERO 2L",
+            "codigo": " 10217 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 9,89",
+            "valor_total": "9,89"
+        },
+        {
+            "descricao": "QUEIJO RALADO FRIOLACK 40G",
+            "codigo": " 51961 ",
+            "quantidade": "2",
+            "unidade": " UNID",
+            "valor_unitario": " 4,59",
+            "valor_total": "9,18"
+        },
+        {
+            "descricao": "POLENTINA QUAKER 500G",
+            "codigo": " 6363 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 5,49",
+            "valor_total": "5,49"
+        },
+        {
+            "descricao": "MILHO VERDE QUERO LT 170G",
+            "codigo": " 47261 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 5,59",
+            "valor_total": "5,59"
+        },
+        {
+            "descricao": "BISC WAFER NUTELLA BREADY 22G",
+            "codigo": " 48197 ",
+            "quantidade": "2",
+            "unidade": " UNID",
+            "valor_unitario": " 3,99",
+            "valor_total": "7,98"
+        },
+        {
+            "descricao": "JORNAL DIARIO GAUCHO",
+            "codigo": " 21500 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 2,5",
+            "valor_total": "2,50"
+        }
+    ]
+}

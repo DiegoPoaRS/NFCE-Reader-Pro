@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260390010034000150650010004948501014948509|2|1|1|4B1595291E1171E8309290EE628E4AB59B8EAD13",
+    "geral": {
+        "chave_acesso": "43260390010034000150650010004948501014948509",
+        "data_emissao": "19/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "FARMACIA FLOR DO CAMPO LTDA",
+        "cnpj": "90.010.034/0001-50"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "17,43",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "HASTES FLEX REVITART CARE C75UNID",
+            "codigo": " 66938 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 10,06",
+            "valor_total": "10,06"
+        },
+        {
+            "descricao": "CRE DENT COLGATE TRIPLA ACAO 90G",
+            "codigo": " 37472 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 8,5",
+            "valor_total": "8,50"
+        },
+        {
+            "descricao": "CHOCOLATE PRESTIGIO 33GR NESTLE",
+            "codigo": " 74804 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 4,13",
+            "valor_total": "4,13"
+        }
+    ]
+}

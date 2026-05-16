@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43250993489243001007650020024260741150990165|2|1|3|c5b9652a8b7ecb0daba1ca7cdd3b33d2b722b639",
+    "geral": {
+        "chave_acesso": "43250993489243001007650020024260741150990165",
+        "data_emissao": "10/09/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "COML BUFFON COMB E TRANSP LTDA - POSTO 10",
+        "cnpj": "93.489.243/0010-07"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "367,46",
+        "valor_total_tributos": "134,12",
+        "tributo_federal": "91,13",
+        "tributo_estadual": "42,99",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "OLEO DIESEL B S10 Bc-19",
+            "codigo": " 19 ",
+            "quantidade": "57,06",
+            "unidade": " L",
+            "valor_unitario": " 6,44",
+            "valor_total": "367,46"
+        }
+    ]
+}

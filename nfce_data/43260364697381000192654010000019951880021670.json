@@ -1,0 +1,40 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260364697381000192654010000019951880021670|2|1|1|2610E9946BC431C3D5CC948DD79A74B845BB2E50",
+    "geral": {
+        "chave_acesso": "43260364697381000192654010000019951880021670",
+        "data_emissao": "08/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "CSS KUNTZ MEIRA SUPERMERCADO LTDA",
+        "cnpj": "64.697.381/0001-92"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "11,48",
+        "valor_total_tributos": "1,48",
+        "tributo_federal": "1,00",
+        "tributo_estadual": "0,48",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "H BANANA CATURRA KG",
+            "codigo": " 9010241 ",
+            "quantidade": "1,501",
+            "unidade": " KG",
+            "valor_unitario": " 4,9900000133",
+            "valor_total": "7,49"
+        },
+        {
+            "descricao": "LEITE 1L DALIA INTEGRAL UHT TAMPA",
+            "codigo": " 0072496 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,99",
+            "valor_total": "3,99"
+        }
+    ]
+}

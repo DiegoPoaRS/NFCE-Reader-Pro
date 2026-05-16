@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260307718633003013650050009468711170362280|3|1",
+    "geral": {
+        "chave_acesso": "43260307718633003013650050009468711170362280",
+        "data_emissao": "09/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "UNIDASUL DISTRIBUIDORA ALIMENTICIA S/A",
+        "cnpj": "07.718.633/0030-13"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "12,25",
+        "valor_total_tributos": "1,79",
+        "tributo_federal": "1,79",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "BOLO INGLES 2X1 kg",
+            "codigo": " 51415 ",
+            "quantidade": "0,136",
+            "unidade": " KG",
+            "valor_unitario": " 42,9",
+            "valor_total": "5,83"
+        },
+        {
+            "descricao": "SANDUICHE PEIT FGO 2X1 kg",
+            "codigo": " 81443 ",
+            "quantidade": "0,074",
+            "unidade": " KG",
+            "valor_unitario": " 59,9",
+            "valor_total": "4,43"
+        },
+        {
+            "descricao": "AGUA MIN CRYSTAL S/GAS 500ml",
+            "codigo": " 9491021 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,99",
+            "valor_total": "1,99"
+        }
+    ]
+}

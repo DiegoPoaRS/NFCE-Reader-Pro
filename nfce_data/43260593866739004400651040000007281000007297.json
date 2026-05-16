@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260593866739004400651040000007281000007297|2|1|1|FE395C5824E65E6941EBBFAA844EC27948050B2E",
+    "geral": {
+        "chave_acesso": "43260593866739004400651040000007281000007297",
+        "data_emissao": "03/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "VISSOMZ ABASTE ESPECIAL DE ESSENCIAS ROGE COMERCIO LTDA",
+        "cnpj": "93.866.739/0044-00"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "76,81",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "Accordes Des Bdy Spr V7 100ml",
+            "codigo": " 87982 ",
+            "quantidade": "1",
+            "unidade": " PC",
+            "valor_unitario": " 49,9",
+            "valor_total": "49,90"
+        },
+        {
+            "descricao": "Cbem Sab Barra Sortido V2 4x80g",
+            "codigo": " 85547 ",
+            "quantidade": "1",
+            "unidade": " PC",
+            "valor_unitario": " 36,9",
+            "valor_total": "36,90"
+        },
+        {
+            "descricao": "Sacola M Maes/26 Boti Unit",
+            "codigo": " 96443 ",
+            "quantidade": "1",
+            "unidade": " PC",
+            "valor_unitario": " 2,35",
+            "valor_total": "2,35"
+        }
+    ]
+}

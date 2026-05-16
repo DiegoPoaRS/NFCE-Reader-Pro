@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251111933008000127650140001098431073639792|3|1",
+    "geral": {
+        "chave_acesso": "43251111933008000127650140001098431073639792",
+        "data_emissao": "25/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "J. C. BARCELLOS E CIA. LTDA.",
+        "cnpj": "11.933.008/0001-27"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "100,00",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "GC GASOLINA COMUM",
+            "codigo": " GC ",
+            "quantidade": "16,051",
+            "unidade": " LT",
+            "valor_unitario": " 6,23",
+            "valor_total": "100,00"
+        }
+    ]
+}

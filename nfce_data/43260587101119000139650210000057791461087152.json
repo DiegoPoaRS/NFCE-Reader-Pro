@@ -1,0 +1,72 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260587101119000139650210000057791461087152|3|1",
+    "geral": {
+        "chave_acesso": "43260587101119000139650210000057791461087152",
+        "data_emissao": "07/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "SUPERMERCADO JEPSEN LTDA - MATRIZ",
+        "cnpj": "87.101.119/0001-39"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "31,95",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "SUCO BIRI FRUTAS CIT",
+            "codigo": " 719961 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 3,19",
+            "valor_total": "3,19"
+        },
+        {
+            "descricao": "AGUA MINERAL DA PEDR",
+            "codigo": " 716463 ",
+            "quantidade": "2",
+            "unidade": " UNID",
+            "valor_unitario": " 1,89",
+            "valor_total": "3,78"
+        },
+        {
+            "descricao": "SOBREMESA SANTA CLAR",
+            "codigo": " 769720 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 5,99",
+            "valor_total": "5,99"
+        },
+        {
+            "descricao": "AMENDOIM DA COLONIA",
+            "codigo": " 732818 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 7,49",
+            "valor_total": "7,49"
+        },
+        {
+            "descricao": "PASTEL FABCARNE",
+            "codigo": " 9318 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 11",
+            "valor_total": "11,00"
+        },
+        {
+            "descricao": "JORNAL O LOURENCIANO",
+            "codigo": " 128131 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 2,5",
+            "valor_total": "2,50"
+        }
+    ]
+}

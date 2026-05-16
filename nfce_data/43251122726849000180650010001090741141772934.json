@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251122726849000180650010001090741141772934|2|1|1|258B8800B0988F9EA861A050CB5C29E3DAEAB87D",
+    "geral": {
+        "chave_acesso": "43251122726849000180650010001090741141772934",
+        "data_emissao": "06/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "Pe Direito Materiais de Construcao Ltda",
+        "cnpj": "22.726.849/0001-80"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "18,00",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "ESPATULA DE PLASTICO 131CM - ATLAS 152/2",
+            "codigo": " 002564 ",
+            "quantidade": "1",
+            "unidade": " PC",
+            "valor_unitario": " 5,25",
+            "valor_total": "5,25"
+        },
+        {
+            "descricao": "ESPATULA DE PLA STICO 6 - PARABONI 101268",
+            "codigo": " 003883 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 7,75",
+            "valor_total": "7,75"
+        },
+        {
+            "descricao": "GESSO 1000G - NACIONAL 46213",
+            "codigo": " 003029 ",
+            "quantidade": "1",
+            "unidade": " KG",
+            "valor_unitario": " 5",
+            "valor_total": "5,00"
+        }
+    ]
+}

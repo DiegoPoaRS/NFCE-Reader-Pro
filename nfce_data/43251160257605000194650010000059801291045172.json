@@ -1,0 +1,40 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251160257605000194650010000059801291045172|2|1|1|EF0B0F3EE8BBA84A1115AC3E448229E94DAD3A26",
+    "geral": {
+        "chave_acesso": "43251160257605000194650010000059801291045172",
+        "data_emissao": "29/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "FVE COMERCIO DE CHOCOLATES LTDA",
+        "cnpj": "60.257.605/0001-94"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "26,45",
+        "valor_total_tributos": "8,32",
+        "tributo_federal": "4,50",
+        "tributo_estadual": "3,82",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "#1700900#18069000#TRU COCO 30",
+            "codigo": " 1002622 ",
+            "quantidade": "5",
+            "unidade": " UN",
+            "valor_unitario": " 5,29",
+            "valor_total": "26,45"
+        },
+        {
+            "descricao": "#1700900#18069000#TRU MENTA 30",
+            "codigo": " 1002641 ",
+            "quantidade": "5",
+            "unidade": " UN",
+            "valor_unitario": " 5,29",
+            "valor_total": "26,45"
+        }
+    ]
+}

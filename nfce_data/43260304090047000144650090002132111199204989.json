@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260304090047000144650090002132111199204989|3|1",
+    "geral": {
+        "chave_acesso": "43260304090047000144650090002132111199204989",
+        "data_emissao": "18/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "MARCO ANTONIO LETTNIN",
+        "cnpj": "04.090.047/0001-44"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "9,28",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "BERGAMOTA ORTANIQUE KG",
+            "codigo": " 17009 ",
+            "quantidade": "0,435",
+            "unidade": " KG",
+            "valor_unitario": " 2,99",
+            "valor_total": "1,30"
+        },
+        {
+            "descricao": "AGUA DA PEDRA 1,5L",
+            "codigo": " 24394 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 4,99",
+            "valor_total": "4,99"
+        },
+        {
+            "descricao": "SAB. PALMOLIVE HID.NAT.85G",
+            "codigo": " 16340 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,99",
+            "valor_total": "2,99"
+        }
+    ]
+}

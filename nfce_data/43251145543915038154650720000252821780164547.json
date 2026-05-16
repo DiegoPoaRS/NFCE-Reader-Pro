@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251145543915038154650720000252821780164547|2|1|1|EFEF4F177D3277A11DF83D56CF49C55F12045DEE",
+    "geral": {
+        "chave_acesso": "43251145543915038154650720000252821780164547",
+        "data_emissao": "03/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "CARREFOUR COMERCIO E INDUSTRIA LTDA",
+        "cnpj": "45.543.915/0381-54"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "10,47",
+        "valor_total_tributos": "3,23",
+        "tributo_federal": "1,78",
+        "tributo_estadual": "1,45",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "AG MINL S GAS PEDRA",
+            "codigo": " 4356578 ",
+            "quantidade": "1",
+            "unidade": " un",
+            "valor_unitario": " 4,99",
+            "valor_total": "4,99"
+        },
+        {
+            "descricao": "CRM DENT SORRISO DEN",
+            "codigo": " 582077 ",
+            "quantidade": "1",
+            "unidade": " un",
+            "valor_unitario": " 3,49",
+            "valor_total": "3,49"
+        },
+        {
+            "descricao": "ESCOVA ORALB PRO 1U",
+            "codigo": " 3057534 ",
+            "quantidade": "1",
+            "unidade": " un",
+            "valor_unitario": " 1,99",
+            "valor_total": "1,99"
+        }
+    ]
+}

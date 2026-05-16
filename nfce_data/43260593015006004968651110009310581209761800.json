@@ -1,0 +1,48 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260593015006004968651110009310581209761800|2|1|1|1B73B5B71CAC9147286487BF5EBE7E696E9B1112",
+    "geral": {
+        "chave_acesso": "43260593015006004968651110009310581209761800",
+        "data_emissao": "08/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA",
+        "cnpj": "93.015.006/0049-68"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "58,19",
+        "valor_total_tributos": "18,35",
+        "tributo_federal": "9,65",
+        "tributo_estadual": "8,70",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "PASSATA MERCATTO 680G",
+            "codigo": " 000000000001091738 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 16,49",
+            "valor_total": "16,49"
+        },
+        {
+            "descricao": "MASSA PAPPARD MOLISANA GRAN 500G",
+            "codigo": " 000000000001123450 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 11,9",
+            "valor_total": "11,90"
+        },
+        {
+            "descricao": "SUCO NATURALE BERGAMOTA INT 1L",
+            "codigo": " 000000000001108700 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 14,9",
+            "valor_total": "29,80"
+        }
+    ]
+}

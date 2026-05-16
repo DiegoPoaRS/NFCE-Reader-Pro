@@ -1,0 +1,80 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260509185272000188650030007643901140259103|3|1",
+    "geral": {
+        "chave_acesso": "43260509185272000188650030007643901140259103",
+        "data_emissao": "10/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "IRMAOS WERLANG C. G. A. LTDA",
+        "cnpj": "09.185.272/0001-88"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "149,71",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "SALSICHAO TOSCANA KG",
+            "codigo": " 644 ",
+            "quantidade": "0,936",
+            "unidade": " KG",
+            "valor_unitario": " 21,99",
+            "valor_total": "20,58"
+        },
+        {
+            "descricao": "COXINHA DA ASA KG",
+            "codigo": " 230 ",
+            "quantidade": "0,988",
+            "unidade": " KG",
+            "valor_unitario": " 19,49",
+            "valor_total": "19,26"
+        },
+        {
+            "descricao": "CERVEJA CORONA SALC LG NECK 330ML",
+            "codigo": " 56954 ",
+            "quantidade": "12",
+            "unidade": " UNID",
+            "valor_unitario": " 7,49",
+            "valor_total": "89,88"
+        },
+        {
+            "descricao": "HALLS SABOR MENTA 28G",
+            "codigo": " 45251 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 2,49",
+            "valor_total": "2,49"
+        },
+        {
+            "descricao": "BOMBOM SONHO DE VALSA 20G",
+            "codigo": " 43466 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 1,99",
+            "valor_total": "1,99"
+        },
+        {
+            "descricao": "CHIC TRIDENT DE MELANCIA 8G",
+            "codigo": " 22574 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 3,29",
+            "valor_total": "3,29"
+        },
+        {
+            "descricao": "REFRI COCACOLA ORIG 25L",
+            "codigo": " 6014 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 14,09",
+            "valor_total": "14,09"
+        }
+    ]
+}

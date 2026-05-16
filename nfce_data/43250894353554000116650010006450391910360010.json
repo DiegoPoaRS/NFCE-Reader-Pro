@@ -1,0 +1,40 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43250894353554000116650010006450391910360010|2|1|1|0BAD81A9C6C622C6A28EE19EF6DA2B0521318DE3",
+    "geral": {
+        "chave_acesso": "43250894353554000116650010006450391910360010",
+        "data_emissao": "27/08/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "JOAO RENATO ROSSETTI",
+        "cnpj": "94.353.554/0001-16"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "19,00",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "REFRIGERANTE COCA COLA 600ML",
+            "codigo": " 7554 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 7",
+            "valor_total": "7,00"
+        },
+        {
+            "descricao": "PASTEL DE CARNE",
+            "codigo": " 11324 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 12",
+            "valor_total": "12,00"
+        }
+    ]
+}

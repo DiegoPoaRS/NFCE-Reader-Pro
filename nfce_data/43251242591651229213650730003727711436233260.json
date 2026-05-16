@@ -1,0 +1,72 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251242591651229213650730003727711436233260|3|1",
+    "geral": {
+        "chave_acesso": "43251242591651229213650730003727711436233260",
+        "data_emissao": "05/12/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+        "cnpj": "42.591.651/2292-13"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "49,60",
+        "valor_total_tributos": "8,99",
+        "tributo_federal": "5,37",
+        "tributo_estadual": "3,62",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "Coca300 PrMcL",
+            "codigo": " 618199 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 9,9",
+            "valor_total": "9,90"
+        },
+        {
+            "descricao": "McL Feliz CB Pr",
+            "codigo": " 601023 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 14,2",
+            "valor_total": "14,20"
+        },
+        {
+            "descricao": "Batata Kids Pr",
+            "codigo": " 606554 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,75",
+            "valor_total": "3,75"
+        },
+        {
+            "descricao": "Bat Kid MFL",
+            "codigo": " 94673 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,15",
+            "valor_total": "1,15"
+        },
+        {
+            "descricao": "BR4 Nick Pr",
+            "codigo": " 90740 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,6",
+            "valor_total": "5,60"
+        },
+        {
+            "descricao": "Walki Torta",
+            "codigo": " 76960 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 7,5",
+            "valor_total": "15,00"
+        }
+    ]
+}

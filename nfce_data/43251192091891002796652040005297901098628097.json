@@ -1,0 +1,96 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251192091891002796652040005297901098628097|2|1|1|EFF1A925D75CF779008A35DE770028ECD1B06A93",
+    "geral": {
+        "chave_acesso": "43251192091891002796652040005297901098628097",
+        "data_emissao": "11/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "ASUN COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+        "cnpj": "92.091.891/0027-96"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "44,44",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "MAMAO PAPAYA kg",
+            "codigo": " 12487 ",
+            "quantidade": "0,418",
+            "unidade": " KG",
+            "valor_unitario": " 12,98",
+            "valor_total": "5,43"
+        },
+        {
+            "descricao": "TOMATE LONGA VIDA kg",
+            "codigo": " 18562 ",
+            "quantidade": "0,217",
+            "unidade": " KG",
+            "valor_unitario": " 6,99",
+            "valor_total": "1,52"
+        },
+        {
+            "descricao": "BOMBOM GAROTO SERENATA AMOR UN",
+            "codigo": " 14807 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,29",
+            "valor_total": "1,29"
+        },
+        {
+            "descricao": "BOMBOM GAROTO SERENATA AMOR UN",
+            "codigo": " 14807 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,29",
+            "valor_total": "1,29"
+        },
+        {
+            "descricao": "PAO CACETINHO kg ASUN",
+            "codigo": " 22312 ",
+            "quantidade": "0,072",
+            "unidade": " KG",
+            "valor_unitario": " 14,99",
+            "valor_total": "1,08"
+        },
+        {
+            "descricao": "PAO HAMBURGUER WICKBOLD 320g BRIOCHE",
+            "codigo": " 38543 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 13,29",
+            "valor_total": "13,29"
+        },
+        {
+            "descricao": "MERENGUE ASUN kg",
+            "codigo": " 14485 ",
+            "quantidade": "0,094",
+            "unidade": " KG",
+            "valor_unitario": " 69,9",
+            "valor_total": "6,57"
+        },
+        {
+            "descricao": "LEITE TIPO B SANTA CLARA 1L GF ESPECIAL",
+            "codigo": " 20748 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,98",
+            "valor_total": "6,98"
+        },
+        {
+            "descricao": "OVOS CANARINHO VERMELHOS 6un",
+            "codigo": " 3592 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,99",
+            "valor_total": "6,99"
+        }
+    ]
+}

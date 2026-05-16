@@ -1,0 +1,56 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260587101119000210650250003335071556704140|3|1",
+    "geral": {
+        "chave_acesso": "43260587101119000210650250003335071556704140",
+        "data_emissao": "05/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "SUPERMERCADO JEPSEN LTDA - FILIAL",
+        "cnpj": "87.101.119/0002-10"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "18,38",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "LARANJA SUCO KG",
+            "codigo": " 1415 ",
+            "quantidade": "0,64",
+            "unidade": " KG",
+            "valor_unitario": " 3,79",
+            "valor_total": "2,43"
+        },
+        {
+            "descricao": "BISCOITO NESTLE BONO",
+            "codigo": " 701990 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 2,59",
+            "valor_total": "2,59"
+        },
+        {
+            "descricao": "SUCO CBS MISTO MORAN",
+            "codigo": " 763994 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 9,39",
+            "valor_total": "9,39"
+        },
+        {
+            "descricao": "IOGURTE BATAVO NATUR",
+            "codigo": " 727625 ",
+            "quantidade": "1",
+            "unidade": " UNID",
+            "valor_unitario": " 4,49",
+            "valor_total": "4,49"
+        }
+    ]
+}

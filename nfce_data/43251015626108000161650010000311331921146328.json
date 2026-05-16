@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251015626108000161650010000311331921146328|2|1|1|F571D793D4D80D4C4D4241413B5F080C17C7E8AC",
+    "geral": {
+        "chave_acesso": "43251015626108000161650010000311331921146328",
+        "data_emissao": "30/10/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "JAIRO ANSELMO DOS PASSOS",
+        "cnpj": "15.626.108/0001-61"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "69,90",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "FECHADURA INTERNA-POP SOPRANO",
+            "codigo": " 11467 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 69,9",
+            "valor_total": "69,90"
+        }
+    ]
+}

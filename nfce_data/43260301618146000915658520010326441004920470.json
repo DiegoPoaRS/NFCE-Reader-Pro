@@ -1,0 +1,64 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260301618146000915658520010326441004920470|2|1|1|ea27da17e0a4ff16fd814ae4d15c16d15fab99f3",
+    "geral": {
+        "chave_acesso": "43260301618146000915658520010326441004920470",
+        "data_emissao": "31/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "CENTER SHOP VENANCIO AIRES",
+        "cnpj": "01.618.146/0009-15"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "33,95",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "INSETIC MAT INSET RF",
+            "codigo": " 2144580 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        },
+        {
+            "descricao": "INSETIC MAT INSET RF",
+            "codigo": " 2144580 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        },
+        {
+            "descricao": "INSETIC MAT INSET RF",
+            "codigo": " 2144580 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        },
+        {
+            "descricao": "INSETIC MAT INSET RF",
+            "codigo": " 2144580 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        },
+        {
+            "descricao": "INSETIC MAT INSET RF",
+            "codigo": " 2144580 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        }
+    ]
+}

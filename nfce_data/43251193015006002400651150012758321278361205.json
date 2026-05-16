@@ -1,0 +1,64 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251193015006002400651150012758321278361205|2|1|1|F8AC2253089F318A6239DE4AAFBBE582E682D180",
+    "geral": {
+        "chave_acesso": "43251193015006002400651150012758321278361205",
+        "data_emissao": "16/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA",
+        "cnpj": "93.015.006/0024-00"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "68,79",
+        "valor_total_tributos": "9,47",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "FILEZINHO FGO SADIA IQF 1KG",
+            "codigo": " 000000000001006083 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 25,9",
+            "valor_total": "25,90"
+        },
+        {
+            "descricao": "PAO SAND S.BOYS F.FIBRAS 450G",
+            "codigo": " 000000000001046491 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 9,39",
+            "valor_total": "9,39"
+        },
+        {
+            "descricao": "VINAG ALCOOL WINNA 750ML",
+            "codigo": " 000000000001018241 ",
+            "quantidade": "4",
+            "unidade": " UN",
+            "valor_unitario": " 2,79",
+            "valor_total": "11,16"
+        },
+        {
+            "descricao": "B NUTS HARTS CRAN&CH VEG 35G",
+            "codigo": " 000000000001070123 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 5,68",
+            "valor_total": "11,36"
+        },
+        {
+            "descricao": "FOLHA ALUM WYDA 30CMX7,5M",
+            "codigo": " 000000000001016441 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 5,99",
+            "valor_total": "11,98"
+        }
+    ]
+}

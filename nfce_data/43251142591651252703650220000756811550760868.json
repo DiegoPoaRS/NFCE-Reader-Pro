@@ -1,0 +1,64 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251142591651252703650220000756811550760868|2|1|1|FDE1958A9D529C4000FE6B5D95F857CF9A54FA59",
+    "geral": {
+        "chave_acesso": "43251142591651252703650220000756811550760868",
+        "data_emissao": "23/11/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+        "cnpj": "42.591.651/2527-03"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "27,90",
+        "valor_total_tributos": "3,70",
+        "tributo_federal": "2,34",
+        "tributo_estadual": "1,36",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "CB PrAF",
+            "codigo": " 80964 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 7,4",
+            "valor_total": "7,40"
+        },
+        {
+            "descricao": "Bat M PrAF",
+            "codigo": " 95374 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,5",
+            "valor_total": "5,50"
+        },
+        {
+            "descricao": "Coca P PrAF",
+            "codigo": " 77043 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 10,5",
+            "valor_total": "10,50"
+        },
+        {
+            "descricao": "CasMis BLPrAF",
+            "codigo": " 90814 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "2,50"
+        },
+        {
+            "descricao": "Extra Chocolate",
+            "codigo": " 76890 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2",
+            "valor_total": "2,00"
+        }
+    ]
+}

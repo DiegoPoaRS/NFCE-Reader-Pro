@@ -1,0 +1,56 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260304090047000144650080001916331986681117|3|1",
+    "geral": {
+        "chave_acesso": "43260304090047000144650080001916331986681117",
+        "data_emissao": "19/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "MARCO ANTONIO LETTNIN",
+        "cnpj": "04.090.047/0001-44"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "20,46",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "ELMA CHIPS CHEETOS ONDA 39G",
+            "codigo": " 10642 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,99",
+            "valor_total": "3,99"
+        },
+        {
+            "descricao": "COCA COLA 600ML",
+            "codigo": " 5641 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,49",
+            "valor_total": "5,49"
+        },
+        {
+            "descricao": "AGUA DA PEDRA 1,5L",
+            "codigo": " 24394 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 4,99",
+            "valor_total": "4,99"
+        },
+        {
+            "descricao": "SANDUICHE NATURAL UN",
+            "codigo": " 14349 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,99",
+            "valor_total": "5,99"
+        }
+    ]
+}

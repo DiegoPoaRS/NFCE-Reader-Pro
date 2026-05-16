@@ -1,0 +1,72 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260275503821010617650120000147401894327329|2|1|1|3A4D840E1C0B6A59B183DDCF5FCBEC1F5705E68C",
+    "geral": {
+        "chave_acesso": "43260275503821010617650120000147401894327329",
+        "data_emissao": "12/02/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "COMERCIO E INDUSTRIA DE SORVETES ESKIMO LTDA",
+        "cnpj": "75.503.821/0106-17"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "35,00",
+        "valor_total_tributos": "12,74",
+        "tributo_federal": "12,74",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "PICOLE FRUTA ABACAXI",
+            "codigo": " 24017 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "5,00"
+        },
+        {
+            "descricao": "PICOLE FRUTA MARACUJA",
+            "codigo": " 43341 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "5,00"
+        },
+        {
+            "descricao": "PICOLE FRUTA MORANGO",
+            "codigo": " 43340 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "5,00"
+        },
+        {
+            "descricao": "PICOLE FRUTA LIMAO",
+            "codigo": " 24021 ",
+            "quantidade": "3",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "7,50"
+        },
+        {
+            "descricao": "PICOLE FRUTA UVA",
+            "codigo": " 24023 ",
+            "quantidade": "3",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "7,50"
+        },
+        {
+            "descricao": "PICOLE FRUTA FRAMBOESA",
+            "codigo": " 24019 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 2,5",
+            "valor_total": "5,00"
+        }
+    ]
+}

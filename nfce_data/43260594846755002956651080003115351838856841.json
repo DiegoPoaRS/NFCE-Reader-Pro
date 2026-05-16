@@ -1,0 +1,64 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260594846755002956651080003115351838856841|2|1|1|526023AD42B3AA13336027CD33ED6E383ACE1B5A",
+    "geral": {
+        "chave_acesso": "43260594846755002956651080003115351838856841",
+        "data_emissao": "06/05/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "SUPERMERCADO GUANABARA S.A",
+        "cnpj": "94.846.755/0029-56"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "17,90",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "BEB PET FRUKI 2L SABOR GUARANA",
+            "codigo": " 23036 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,99",
+            "valor_total": "6,99"
+        },
+        {
+            "descricao": "AGUA MINERAL CRYSTAL S/G 500ML",
+            "codigo": " 44210 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,95",
+            "valor_total": "1,95"
+        },
+        {
+            "descricao": "MIST CAPPUCCINO 3 CORACOES 20G CHOCOLATE",
+            "codigo": " 138761 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,49",
+            "valor_total": "2,49"
+        },
+        {
+            "descricao": "CHOC SNICKERS 42G DARK",
+            "codigo": " 145650 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 4,98",
+            "valor_total": "4,98"
+        },
+        {
+            "descricao": "GOMA MASCAR TOPLINE UN 7BELO FRAMBOESA",
+            "codigo": " 134742 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 1,49",
+            "valor_total": "1,49"
+        }
+    ]
+}

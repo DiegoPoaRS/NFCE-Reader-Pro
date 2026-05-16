@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251009273885000339650160001519111487083800|2|1|1|D3510A5501D2DFBBFB1381C5547FBE09F339592B",
+    "geral": {
+        "chave_acesso": "43251009273885000339650160001519111487083800",
+        "data_emissao": "31/10/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "VIA MAIS REDE DE POSTOS S.A. - F3",
+        "cnpj": "09.273.885/0003-39"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "247,86",
+        "valor_total_tributos": "61,47",
+        "tributo_federal": "61,47",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "OLEO DIESEL S10 B:55",
+            "codigo": " 2966 ",
+            "quantidade": "39,406",
+            "unidade": " L",
+            "valor_unitario": " 6,29",
+            "valor_total": "247,86"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43251091411256004134650050000912301843676238|2|1|1|8355184146d00d25c6573d1b1e9d438e56200afe",
+    "geral": {
+        "chave_acesso": "43251091411256004134650050000912301843676238",
+        "data_emissao": "07/10/2025",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "SANDER COMERCIO DE COMBUSTIVEIS LTDA",
+        "cnpj": "91.411.256/0041-34"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "168,92",
+        "valor_total_tributos": "20,27",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "DIESEL S 10",
+            "codigo": " 5 ",
+            "quantidade": "27,29",
+            "unidade": " L",
+            "valor_unitario": " 6,19",
+            "valor_total": "168,92"
+        }
+    ]
+}

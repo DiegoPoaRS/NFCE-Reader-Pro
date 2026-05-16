@@ -1,0 +1,72 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260392091891002796652050004379141944543468|2|1|1|7450FFDFFB7EFF3AB79E12D944E6E70C88615899",
+    "geral": {
+        "chave_acesso": "43260392091891002796652050004379141944543468",
+        "data_emissao": "05/03/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "ASUN COMERCIO DE GENEROS ALIMENTICIOS LTDA",
+        "cnpj": "92.091.891/0027-96"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "25,84",
+        "valor_total_tributos": "0,00",
+        "tributo_federal": "0,00",
+        "tributo_estadual": "0,00",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "VINAGRE ALCOOL CHEMIM 750mL",
+            "codigo": " 48124 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,59",
+            "valor_total": "2,59"
+        },
+        {
+            "descricao": "BARRA NUTS HARTS 35g CRANB/CHOCO",
+            "codigo": " 43424 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        },
+        {
+            "descricao": "BARRA NUTS HARTS 35g CRANB/CHOCO",
+            "codigo": " 43424 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 6,79",
+            "valor_total": "6,79"
+        },
+        {
+            "descricao": "MANDOLATE KONRAD 30G TRADICIONAL",
+            "codigo": " 59872 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,39",
+            "valor_total": "2,39"
+        },
+        {
+            "descricao": "VINAGRE ALCOOL CHEMIM 750mL",
+            "codigo": " 48124 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 2,59",
+            "valor_total": "2,59"
+        },
+        {
+            "descricao": "IOG VIDAVEG 170g VEGANO MOR MORANGO",
+            "codigo": " 20174 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 5,79",
+            "valor_total": "5,79"
+        }
+    ]
+}

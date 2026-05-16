@@ -1,0 +1,216 @@
+{
+    "_url_origem": "https://www.sefaz.rs.gov.br/NFCE/NFCE-COM.aspx?p=43260293015006004968651220011025091648463363|2|1|1|F7DDB39C5A35C96860E8B4B441DC8B1C25EC4F67",
+    "geral": {
+        "chave_acesso": "43260293015006004968651220011025091648463363",
+        "data_emissao": "28/02/2026",
+        "status_nota": "Ativa"
+    },
+    "vendedor": {
+        "razao_social": "COMPANHIA ZAFFARI COMERCIO E INDUSTRIA",
+        "cnpj": "93.015.006/0049-68"
+    },
+    "consumidor": {
+        "cpf": "Não informado"
+    },
+    "totais": {
+        "valor_total": "379,77",
+        "valor_total_tributos": "108,01",
+        "tributo_federal": "56,43",
+        "tributo_estadual": "51,58",
+        "tributo_municipal": "0,00"
+    },
+    "produtos": [
+        {
+            "descricao": "LEITE COND PIRAC S.DES 395G",
+            "codigo": " 000000000001043726 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 4,99",
+            "valor_total": "9,98"
+        },
+        {
+            "descricao": "CR LEITE PARMALAT TP200G",
+            "codigo": " 000000000001089703 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 2,49",
+            "valor_total": "4,98"
+        },
+        {
+            "descricao": "MOLHO TOM ODERICH TRAD SH300G",
+            "codigo": " 000000000001119116 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 1,65",
+            "valor_total": "3,30"
+        },
+        {
+            "descricao": "BISC BAUDUCCO BISCUIT M.AMG 80G",
+            "codigo": " 000000000001067917 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 7,98",
+            "valor_total": "7,98"
+        },
+        {
+            "descricao": "CHOC NESTLE CHOCOTRIO AO LTE 90G",
+            "codigo": " 000000000001108488 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 9,98",
+            "valor_total": "9,98"
+        },
+        {
+            "descricao": "CHOC NEGRESCO RECH 90G",
+            "codigo": " 000000000001131205 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 10,9",
+            "valor_total": "10,90"
+        },
+        {
+            "descricao": "ALIM CAO D.CHOW FIL RP 100G",
+            "codigo": " 000000000001043482 ",
+            "quantidade": "4",
+            "unidade": " UN",
+            "valor_unitario": " 3,69",
+            "valor_total": "14,76"
+        },
+        {
+            "descricao": "ALIM CAO PEDIGREE FGO 100G",
+            "codigo": " 000000000001040778 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 2,99",
+            "valor_total": "5,98"
+        },
+        {
+            "descricao": "PALETA S/OSSO EF",
+            "codigo": " 000000000001057924 ",
+            "quantidade": "1,1599",
+            "unidade": " KG",
+            "valor_unitario": " 38,9",
+            "valor_total": "45,12"
+        },
+        {
+            "descricao": "PEITO FRANGO PERDIGAO DEF CP AS",
+            "codigo": " 000000000001004440 ",
+            "quantidade": "0,182",
+            "unidade": " KG",
+            "valor_unitario": " 62,9",
+            "valor_total": "11,45"
+        },
+        {
+            "descricao": "QJO MUSSARELA PRES FAT 150G",
+            "codigo": " 000000000001008729 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 8,79",
+            "valor_total": "8,79"
+        },
+        {
+            "descricao": "SORV SORVELAND CHOCOLATE 2L",
+            "codigo": " 000000000001006195 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 35,9",
+            "valor_total": "35,90"
+        },
+        {
+            "descricao": "SUCO NATURALE LARANJA INT 1L",
+            "codigo": " 000000000001000060 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 10,9",
+            "valor_total": "10,90"
+        },
+        {
+            "descricao": "GELATO SORVELAND PISTACCH 950ML",
+            "codigo": " 000000000001002070 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 45,9",
+            "valor_total": "45,90"
+        },
+        {
+            "descricao": "GOMA TRIDENT HORTELA 8G",
+            "codigo": " 000000000001036197 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,69",
+            "valor_total": "3,69"
+        },
+        {
+            "descricao": "NECTAR TIAL LARANJA 1L",
+            "codigo": " 000000000001104846 ",
+            "quantidade": "4",
+            "unidade": " UN",
+            "valor_unitario": " 4,99",
+            "valor_total": "19,96"
+        },
+        {
+            "descricao": "BIFE FILE PTO A.SERRA RESF 700G",
+            "codigo": " 000000000001097155 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 16,8",
+            "valor_total": "33,60"
+        },
+        {
+            "descricao": "PAO CACETINHO",
+            "codigo": " 000000000001001429 ",
+            "quantidade": "0,3761",
+            "unidade": " KG",
+            "valor_unitario": " 15,9",
+            "valor_total": "5,98"
+        },
+        {
+            "descricao": "LIMAO TAITI GRANEL",
+            "codigo": " 000000000001001162 ",
+            "quantidade": "0,614",
+            "unidade": " KG",
+            "valor_unitario": " 7,98",
+            "valor_total": "4,90"
+        },
+        {
+            "descricao": "BANANA PRATA GRANEL",
+            "codigo": " 000000000001001609 ",
+            "quantidade": "0,8318",
+            "unidade": " KG",
+            "valor_unitario": " 8,98",
+            "valor_total": "7,47"
+        },
+        {
+            "descricao": "MASSA PENNE ISABELA SEMOLA 400G",
+            "codigo": " 000000000001108605 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 3,19",
+            "valor_total": "3,19"
+        },
+        {
+            "descricao": "LUVA M.USO DANNY MAXI M ANT AM",
+            "codigo": " 000000000001010075 ",
+            "quantidade": "2",
+            "unidade": " UN",
+            "valor_unitario": " 13,99",
+            "valor_total": "27,98"
+        },
+        {
+            "descricao": "CAFE COFFEE++ GR C.MINAS 250G",
+            "codigo": " 000000000001131989 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 29,9",
+            "valor_total": "29,90"
+        },
+        {
+            "descricao": "OVO BRANCO EXTRA NATUROVOS C/30",
+            "codigo": " 000000000001072158 ",
+            "quantidade": "1",
+            "unidade": " UN",
+            "valor_unitario": " 17,98",
+            "valor_total": "17,98"
+        }
+    ]
+}
